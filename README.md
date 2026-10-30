@@ -287,7 +287,7 @@ template.
 
 ## License
 
-GNU GENERAL PUBLIC LICENSE　
+GNU GENERAL PUBLIC LICENSE　[`LICENSE`](./LICENS E)
 ```
 
 ---
